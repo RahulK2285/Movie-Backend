@@ -1,7 +1,0 @@
-setuptools>=65.5.0
-wheel
-Flask==3.0.3
-pandas==2.2.2
-scikit-learn==1.4.2
-gunicorn==21.2.0
-
